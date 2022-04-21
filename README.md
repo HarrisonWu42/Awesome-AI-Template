@@ -1,1 +1,1 @@
-# Awesome-AI--Template
+# Awesome-AI-Template
